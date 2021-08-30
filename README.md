@@ -49,12 +49,12 @@ Here are some ideas to get you started:
   Projects I am currently working on
 </summary>
 
-<br />
+<!-- <br />
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=arpit0891&repo=Plant-Disease-Detection-Web-application&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2)](https://github.com/arpit0891/Plant-Disease-Detection-Web-application)
 
 <br />
-
+ -->
 ### Github Stats
   
 <p align="center">
