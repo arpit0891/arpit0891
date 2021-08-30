@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 👨🏻‍🎓 4th Year B.Tech Student
 - 💻 Computer Science Major
 - 🖥 MERN Stack Developer
-
+- 🖥 Compitetive programmer
 
 ##
 <h3><b><samp>Skills and Languages</samp></b></h3>     
