@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **arpit0891/arpit0891** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hey Everyone! I'm [Arpit Gurudutt Mishra!](https://github.com/arpit0891) <img src="https://github.com/devptyagi/arpit0891/blob/main/assets/Hi.gif" width="25px">
+# Hey Everyone! I'm [Arpit Gurudutt Mishra!](https://github.com/arpit0891) <img src="https://github.com/arpit0891/arpit0891/blob/main/assets/Hi.gif" width="25px">
 
 <h3><b><samp>About Me</samp></b></h3>
 
