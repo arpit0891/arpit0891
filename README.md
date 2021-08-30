@@ -45,6 +45,16 @@ Here are some ideas to get you started:
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-EA9836?style=flat-square&logo=amazonaws&logoColor=white) 
 
+<summary>
+  Projects I am currently working on
+</summary>
+
+<br />
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=arpit0891&repo=Plant-Disease-Detection-Web-application&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2)](https://github.com/arpit0891/Plant-Disease-Detection-Web-application)
+
+<br />
+
 ### Github Stats
   
 <p align="center">
