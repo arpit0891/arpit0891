@@ -69,5 +69,5 @@ Here are some ideas to get you started:
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/arpit0891/count.svg" />
-  </p>
+</p>
 ![](https://github.com/arpit0891/arpit0891/blob/main/assets/bottom_header.svg)
