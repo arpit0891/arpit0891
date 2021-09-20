@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 💻 Computer Science Major
 - 🖥 MERN Stack Developer
 - 🖥 Compitetive programmer
-
+- 2M+ lines of code contributed
 ##
 <h3><b><samp>Skills and Languages</samp></b></h3>     
 
