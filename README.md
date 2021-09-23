@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 -->
 # Hey Everyone! I'm [Arpit Gurudutt Mishra!](https://github.com/arpit0891) <img src="https://github.com/arpit0891/arpit0891/blob/main/assets/Hi.gif" width="25px">
 
-[![Linkedin Badge](https://img.shields.io/badge/-moshfiqrony-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/moshfiqrony/)](https://www.linkedin.com/in/arpit0891/)
-
-[![Gmail Badge](https://img.shields.io/badge/-15203012@iubat.edu-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:15203012@iubat.edu)](mailto:arpitmishra0891@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-moshfiqrony-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arpit0891/)](https://www.linkedin.com/in/arpit0891/)
+[![Gmail Badge](https://img.shields.io/badge/-15203012@iubat.edu-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:arpitmishra0891@gmail.com)](mailto:arpitmishra0891@gmail.com)
 
 
 <h3><b><samp>About Me</samp></b></h3>
@@ -41,7 +40,7 @@ Here are some ideas to get you started:
   ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)
 - 🖥 Compitetive programmer
 - 2M+ lines of code contributed
-- 
+
 ##
 <h3><b><samp>Skills and Languages</samp></b></h3>     
 
