@@ -15,13 +15,33 @@ Here are some ideas to get you started:
 -->
 # Hey Everyone! I'm [Arpit Gurudutt Mishra!](https://github.com/arpit0891) <img src="https://github.com/arpit0891/arpit0891/blob/main/assets/Hi.gif" width="25px">
 
+[![Linkedin Badge](https://img.shields.io/badge/-moshfiqrony-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/moshfiqrony/)](https://www.linkedin.com/in/arpit0891/)
+
+[![Gmail Badge](https://img.shields.io/badge/-15203012@iubat.edu-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:15203012@iubat.edu)](mailto:arpitmishra0891@gmail.com)
+
+
 <h3><b><samp>About Me</samp></b></h3>
 
 - 👨🏻‍🎓 4th Year B.Tech Student
 - 💻 Computer Science Major
 - 🖥 MERN Stack Developer
+- 🚀 I use daily:
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
+  ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
+  ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
+  ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
+  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
+- 💻 I work using:
+  ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
+  ![MaterialUI](https://img.shields.io/badge/-MatrialUI-0081CB?style=plastic&logo=material-UI)
+  ![Django](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=Django)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=plastic&logo=postgresql)
+  ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=plastic&logo=amazon-aws)
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
+  ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)
 - 🖥 Compitetive programmer
 - 2M+ lines of code contributed
+- 
 ##
 <h3><b><samp>Skills and Languages</samp></b></h3>     
 
