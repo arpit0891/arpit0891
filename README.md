@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 - 💻 Computer Science Major
 - 🖥 MERN Stack Developer
 - 🚀 I use daily:
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
   ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
@@ -44,11 +43,6 @@ Here are some ideas to get you started:
 - 🖥 Compitetive programmer
 
 - 2M+ lines of code contributed
-
-##
-<h3><b><samp>Skills and Languages</samp></b></h3>     
-
-
 
 
 ##
