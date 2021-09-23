@@ -28,23 +28,21 @@ Here are some ideas to get you started:
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
   ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
-  ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
 - 💻 I work using:
   ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
   ![MaterialUI](https://img.shields.io/badge/-MatrialUI-0081CB?style=plastic&logo=material-UI)
   ![Django](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=Django)
   ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=plastic&logo=amazon-aws)
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
-  ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)
+  ![Git](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
   ![JavaScript](https://img.shields.io/badge/JavaScript-ffcb2c?style=flat-square&logo=javascript&logoColor=white)
   ![ReactJS](https://img.shields.io/badge/ReactJS-292c33?style=flat-square&logo=react&logoColor=80d8f7)
   ![ExpressJS](https://img.shields.io/badge/ExpressJS-292c33?style=flat-square&logo=express&logoColor=90c3f9)
   ![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=flat-square&logo=node.js&logoColor=80d8f7)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-  ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)  
 - 🖥 Compitetive programmer
+
 - 2M+ lines of code contributed
 
 ##
