@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <h3><b><samp>About Me</samp></b></h3>
 
-- 👨🏻‍🎓 4th Year B.Tech Student
+- 👨🏻‍🎓 SDE intern Hike
 - 💻 Computer Science Major
 - 🖥 MERN Stack Developer
 - 🚀 I use daily:
