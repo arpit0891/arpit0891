@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hey Everyone! I'm [Arpit Gurudutt Mishra!](https://github.com/arpit0891) <img src="https://github.com/arpit0891/arpit0891/blob/main/assets/Hi.gif" width="25px">
+# Hey Everyone! I'm [Arpit Gurudutt Mishra!](https://github.com/arpit0891) 
 
 [![Linkedin Badge](https://img.shields.io/badge/-arpit0891-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arpit0891/)](https://www.linkedin.com/in/arpit0891/)
 [![Gmail Badge](https://img.shields.io/badge/-arpitmishra0891@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:arpitmishra0891@gmail.com)](mailto:arpitmishra0891@gmail.com)
