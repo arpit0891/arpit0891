@@ -1,4 +1,3 @@
-
 <!--
 **arpit0891/arpit0891** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,15 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hey Everyone! I'm [Arpit Gurudutt Mishra!](https://github.com/arpit0891) 
+
+# Hey Everyone! I'm [Arpit Gurudutt Mishra!](https://github.com/arpit0891)
 
 [![Linkedin Badge](https://img.shields.io/badge/-arpit0891-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arpit0891/)](https://www.linkedin.com/in/arpit0891/)
 [![Gmail Badge](https://img.shields.io/badge/-arpitmishra0891@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:arpitmishra0891@gmail.com)](mailto:arpitmishra0891@gmail.com)
 
-
 <h3><b><samp>About Me</samp></b></h3>
 
-- 👨🏻‍🎓 SDE intern Hike
+- 👨🏻‍🎓 SDE Hike
 - 💻 Computer Science Major
 - 🖥 MERN Stack Developer
 - 🚀 I use daily:
@@ -44,8 +43,8 @@ Here are some ideas to get you started:
 
 - 2M+ lines of code contributed
 
-
 ##
+
 <h3><b><samp>Tools and Platform</samp></b></h3>
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
@@ -54,7 +53,7 @@ Here are some ideas to get you started:
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-E3445E?style=flat-square&logo=intellijidea&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-EA9836?style=flat-square&logo=amazonaws&logoColor=white) 
+![AWS](https://img.shields.io/badge/AWS-EA9836?style=flat-square&logo=amazonaws&logoColor=white)
 
 <summary>
   Projects I am currently working on
@@ -67,7 +66,7 @@ Here are some ideas to get you started:
 <br />
 
 ### Github Stats
-  
+
 <p align="center">
   <a href="https://github.com/arpit0891"><span>
     <img height="48%" src="https://github-readme-stats.vercel.app/api?username=arpit0891&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"/>
@@ -75,12 +74,11 @@ Here are some ideas to get you started:
     </span></a>
 </p>
 
-
 ##
-<p align="center"> 
+
+<p align="center">
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/arpit0891/count.svg" />
 </p>
-
 
 ![](https://github.com/arpit0891/arpit0891/blob/main/assets/bottom_header.svg)
